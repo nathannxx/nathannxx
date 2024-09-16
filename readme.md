@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Nathan</h1>
-<h3 align="center">Just an 19 yo man who still learn how to code 😁</h3>
+<h3 align="center">wen becum pru</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathannxx&label=Profile%20views&color=0e75b6&style=flat" alt="nathannxx" /> </p>
 
