@@ -1,3 +1,5 @@
+*ignore the repositories that still hogging on my profile :3, im too lazy to remove it lul
+
 <div id="header" align="center">
 <img src="https://github.com/user-attachments/assets/95e65d4e-e557-401e-a777-27cbd2d9808d" width="600" height="300"/>
 </div>
